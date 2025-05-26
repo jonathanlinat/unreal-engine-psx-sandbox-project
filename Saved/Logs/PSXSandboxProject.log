@@ -1381,3 +1381,126 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.26-19.45.47:026][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 685.717346
 [2025.05.26-19.45.48:025][720]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.26-19.45.48:026][720]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 686.384094, Update Interval: 309.243439
+[2025.05.26-19.51.03:485][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1002.177002
+[2025.05.26-19.51.04:485][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-19.51.04:485][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1002.844055, Update Interval: 352.554688
+[2025.05.26-19.53.00:526][818]LogSlate: External Image Picker: DecompressImage failed
+[2025.05.26-19.53.00:627][818]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.05.26-19.53.55:770][653]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.26-19.53.55:776][653]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.26-19.55.29:262][689]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.05.26-19.55.31:928][697]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Content/Developers/Jonathan/Collections/' because it could not be accessed. Aborting watch request...
+[2025.05.26-19.57.08:276][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1366.963379
+[2025.05.26-19.57.09:277][989]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-19.57.09:277][989]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1367.630005, Update Interval: 343.613403
+[2025.05.26-20.02.30:934][667]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.05.26-20.02.30:956][667]LogContentBrowser: Creating deferred item: NewWorld
+[2025.05.26-20.02.30:963][667]LogSlate: Took 0.006850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.26-20.02.30:981][669]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.05.26-20.02.42:924][ 98]LogContentBrowser: Attempting asset rename: NewWorld -> PSXSP_OpenWorld
+[2025.05.26-20.02.42:926][ 98]LogChaosDD: Creating Chaos Debug Draw Scene for world PSXSP_OpenWorld
+[2025.05.26-20.02.42:929][ 98]LogContentBrowser: End creating deferred item NewWorld
+[2025.05.26-20.02.50:862][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.05.26-20.02.52:431][ 28]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-20.02.52:477][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-20.02.52:537][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.05.26-20.02.52:541][ 28]LogSavePackage: Moving output files for package: /Game/PSXSandboxProject/Assets/PSXSP_OpenWorld
+[2025.05.26-20.02.52:541][ 28]LogSavePackage: Moving 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Saved/PSXSP_OpenWorld44F173114F223142BDBE9BB34291F181.tmp' to 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Content/PSXSandboxProject/Assets/PSXSP_OpenWorld.umap'
+[2025.05.26-20.02.52:549][ 28]LogFileHelpers: Saving map 'PSXSP_OpenWorld' took 0.019
+[2025.05.26-20.02.52:613][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.665 ms
+[2025.05.26-20.02.52:613][ 28]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PSXSandboxProject/Assets/PSXSP_OpenWorld.PSXSP_OpenWorld
+[2025.05.26-20.02.52:613][ 28]Cmd: MAP LOAD FILE="D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Content/PSXSandboxProject/Assets/PSXSP_OpenWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.26-20.02.52:665][ 28]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-20.02.52:665][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-20.02.52:665][ 28]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.05.26-20.02.52:675][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-20.02.52:691][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.26-20.02.52:695][ 28]LogWorld: UWorld::CleanupWorld for PSXSP_OpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-20.02.52:695][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-20.02.52:703][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.26-20.02.52:709][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.26-20.02.52:710][ 28]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.26-20.02.52:711][ 28]LogAudio: Display: Audio Device (ID: 1) registered with world 'PSXSP_OpenWorld'.
+[2025.05.26-20.02.52:711][ 28]LogChaosDD: Creating Chaos Debug Draw Scene for world PSXSP_OpenWorld
+[2025.05.26-20.02.52:740][ 28]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.26-20.02.52:748][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.26-20.02.52:751][ 28]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.26-20.02.52:751][ 28]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.04ms to complete.
+[2025.05.26-20.02.52:825][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.26-20.02.52:825][ 28]LogContentValidation: Enabled validators:
+[2025.05.26-20.02.52:825][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.26-20.02.52:825][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.26-20.02.52:825][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.26-20.02.52:825][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.26-20.02.52:825][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.26-20.02.52:825][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.26-20.02.52:825][ 28]AssetCheck: /Game/PSXSandboxProject/Assets/PSXSP_OpenWorld Validating asset
+[2025.05.26-20.03.11:272][728]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1729.959351
+[2025.05.26-20.03.12:272][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-20.03.12:272][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1730.626221, Update Interval: 341.320831
+[2025.05.26-20.03.34:827][ 68]LogSlate: External Image Picker: DecompressImage failed
+[2025.05.26-20.03.40:828][737]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.26-20.04.02:003][219]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.26-20.04.02:007][219]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.26-20.04.03:454][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-20.04.03:523][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.26-20.04.03:527][385]LogSavePackage: Moving output files for package: /Game/PSXSandboxProject/Assets/PSXSP_OpenWorld
+[2025.05.26-20.04.03:527][385]LogSavePackage: Moving 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Saved/PSXSP_OpenWorldEF5B5FC04DBFC8401EB83BA8003A04FB.tmp' to 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Content/PSXSandboxProject/Assets/PSXSP_OpenWorld.umap'
+[2025.05.26-20.04.03:532][385]LogFileHelpers: Saving map 'PSXSP_OpenWorld' took 0.022
+[2025.05.26-20.04.03:539][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.044 ms (total: 220.710 ms)
+[2025.05.26-20.04.03:594][385]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.26-20.04.03:594][385]LogContentValidation: Enabled validators:
+[2025.05.26-20.04.03:594][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.26-20.04.03:594][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.26-20.04.03:594][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.26-20.04.03:594][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.26-20.04.03:594][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.26-20.04.03:594][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.26-20.04.03:594][385]AssetCheck: /Game/PSXSandboxProject/Assets/PSXSP_OpenWorld Validating asset
+[2025.05.26-20.05.06:027][815]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.05.26-20.06.49:899][561]LogSlate: Window 'Message' being destroyed
+[2025.05.26-20.06.49:904][561]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+PSXSP_OpenWorld
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.05.26-20.06.49:920][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-20.06.49:945][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.05.26-20.06.49:948][561]LogSavePackage: Moving output files for package: /Game/PSXSandboxProject/Assets/Levels/PSXSP_OpenWorld
+[2025.05.26-20.06.49:948][561]LogSavePackage: Moving 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Saved/PSXSP_OpenWorldC2EFB9E044C476B43F6B57BE04BAC9B6.tmp' to 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Content/PSXSandboxProject/Assets/Levels/PSXSP_OpenWorld.umap'
+[2025.05.26-20.06.49:954][561]LogFileHelpers: Saving map 'PSXSP_OpenWorld' took 0.035
+[2025.05.26-20.06.49:954][561]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PSXSandboxProject/Assets/PSXSP_OpenWorld] ([1] browsable assets)...
+[2025.05.26-20.06.49:954][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/PSXSandboxProject/Assets/PSXSP_OpenWorld]
+[2025.05.26-20.06.49:955][561]LogSavePackage: Moving output files for package: /Game/PSXSandboxProject/Assets/PSXSP_OpenWorld
+[2025.05.26-20.06.49:955][561]LogSavePackage: Moving 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Saved/PSXSP_OpenWorld7D434DB248EDE710F4C5BBB2ED9246A2.tmp' to 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Content/PSXSandboxProject/Assets/PSXSP_OpenWorld.umap'
+[2025.05.26-20.06.49:955][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.193 ms (total: 256.903 ms)
+[2025.05.26-20.06.49:971][561]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.26-20.06.49:971][561]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.26-20.06.49:971][561]LogContentValidation: Enabled validators:
+[2025.05.26-20.06.49:971][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.26-20.06.49:971][561]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.26-20.06.49:971][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.26-20.06.49:971][561]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.26-20.06.49:971][561]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.26-20.06.49:971][561]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.26-20.06.49:971][561]AssetCheck: /Game/PSXSandboxProject/Assets/Levels/PSXSP_OpenWorld Validating asset
+[2025.05.26-20.06.49:971][561]AssetCheck: /Game/PSXSandboxProject/Assets/PSXSP_OpenWorld Validating asset
+[2025.05.26-20.06.53:070][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-20.06.53:119][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.05.26-20.06.53:122][917]LogSavePackage: Moving output files for package: /Game/PSXSandboxProject/Assets/Levels/PSXSP_OpenWorld
+[2025.05.26-20.06.53:122][917]LogSavePackage: Moving 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Saved/PSXSP_OpenWorld81AC3E334086DAD760162BB94EECB717.tmp' to 'D:/Projects/Personal/Unreal Projects/PSXSandboxProject/Content/PSXSandboxProject/Assets/Levels/PSXSP_OpenWorld.umap'
+[2025.05.26-20.06.53:127][917]LogFileHelpers: Saving map 'PSXSP_OpenWorld' took 0.021
+[2025.05.26-20.06.53:135][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.604 ms (total: 322.508 ms)
+[2025.05.26-20.06.53:185][917]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.26-20.06.53:185][917]LogContentValidation: Enabled validators:
+[2025.05.26-20.06.53:185][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.26-20.06.53:185][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.26-20.06.53:185][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.26-20.06.53:185][917]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.26-20.06.53:185][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.26-20.06.53:185][917]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.26-20.06.53:185][917]AssetCheck: /Game/PSXSandboxProject/Assets/Levels/PSXSP_OpenWorld Validating asset
+[2025.05.26-20.06.55:000][ 76]LogSlate: External Image Picker: DecompressImage failed
+[2025.05.26-20.07.12:097][976]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.26-20.07.12:103][976]LogSlate: Window 'Project Settings' being destroyed
