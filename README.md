@@ -7,3 +7,7 @@ This repository functions as a development log (devlog) and project workspace fo
 I document everything I’ve learned about the technical features and limitations of the game console hardware and explore how to replicate them in the game engine. The ultimate goal is to create a fully functional retro-style game that captures the charm of the game console era.
 
 > Explore the resources and devlogs in the [Wiki](https://github.com/jonathanlinat/unreal-engine-psx-sandbox-project/wiki).
+
+## License
+
+**Unreal Engine PSX (PlayStation) Sandbox Project** and all its content is [CC0 1.0 Universal licensed](LICENSE).
