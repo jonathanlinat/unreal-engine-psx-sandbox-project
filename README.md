@@ -1,4 +1,4 @@
-# Unreal Engine PSX (PlayStation) Sandbox Devlog
+# Unreal Engine PSX (PlayStation) Sandbox Project
 
 This repository serves as a **development log** (**devlog**) and project storage space for creating a retro-style sandbox game inspired by the **PlayStation** (**PSX**) aesthetic, built using **Unreal Engine 5**.
 
