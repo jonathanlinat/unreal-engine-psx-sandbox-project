@@ -1,4 +1,7 @@
 Build/
+Content/*
+!Content/PSXSandboxProject/
+!Content/PSXSandboxProject/**
 DerivatedDataCache/
 Intermediate/
 Saved/
