@@ -27,11 +27,11 @@ import math
 import os
 
 # === GLOBAL SETTINGS ===
-PLANE_SUBDIVISION_SIZE = 0.1  # meters
+PLANE_SUBDIVISION_SIZE = 0.2  # meters
 EXPORT_BASE_DIR = (
     r"D:\Projects\Personal\Unreal Projects\PSXSandboxProject\_Blender\Exported"
 )
-PLANE_SIZES_CM = [10, 20, 40, 60, 80, 100, 120, 140, 160, 180, 200]
+PLANE_SIZES_CM = [20, 40, 60, 80, 100, 120, 140, 160, 180, 200]
 EXPORT_TO_FBX = True  # Set to False to skip FBX export step
 # =======================
 
